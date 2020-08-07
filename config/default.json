@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://leeviaa:Blue1357!@devconnector.lajwc.mongodb.net/devConnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "defbc9d504eda8ef6ce0",
+  "githubSecret": "2e4522c04b4b945e47d46f006bbda28c2d832490"
+}
